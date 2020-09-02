@@ -1,5 +1,3 @@
-# DISCLAIMER: Original source code can be found at: https://nol.cs.nctu.edu.tw:234/open-source/TrackNet/
-
 # TrackNet: Tennis Ball Tracking from Broadcast Video by Deep Learning Networks
 
 
